@@ -6,7 +6,7 @@ module hexademicalBinary_tb();
     
     wire B3,B2,B1,B0;
     
-    hexadecimalBinary uut(zero,one,two,three,four,five,six,seven,
+    hexademicalBinary uut(zero,one,two,three,four,five,six,seven,
                   eight,nine,a,b,c,d,e,f,
                   B3,B2,B1,B0);
     
