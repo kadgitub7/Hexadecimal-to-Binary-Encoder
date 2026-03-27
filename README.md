@@ -121,7 +121,7 @@ These expressions are read directly from the truth table:
 
 Below is a circuit diagram illustrating the OR gate structure used to implement the encoder:
 
-![Hexadecimal to Binary Circuit](/imageAssets/HexBinaryCircuit.png)
+![Hexadecimal to Binary Circuit](/imageAssets/HexademicalBinaryCircuit.png)
 
 ---
 
@@ -129,7 +129,7 @@ Below is a circuit diagram illustrating the OR gate structure used to implement 
 
 Below is the waveform diagram captured when running the simulation using the files in this project:
 
-![Hexadecimal to Binary Waveform](/imageAssets/HexBinaryWaveform.png)
+![Hexadecimal to Binary Waveform](/imageAssets/HexademicalBinaryWaveform.png)
 
 ---
 
